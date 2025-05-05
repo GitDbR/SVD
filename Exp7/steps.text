@@ -1,0 +1,7 @@
+run in terminal 1
+python3 api.py
+
+in terminal 2 run
+python3 app.py
+
+go to link in terminal 
